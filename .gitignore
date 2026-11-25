@@ -1,0 +1,9 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug / IDE
+.vscode/
+*.dSYM/
